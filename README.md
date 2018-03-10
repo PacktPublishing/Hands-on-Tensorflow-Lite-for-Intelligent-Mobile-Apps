@@ -7,6 +7,7 @@ Notes by the author:
 As I've mention in the videos, I had some problems on Ubuntu compiling freeze_graph and toco to freeze graphs and transform frozen graphs into tensorflow lite format respectively. On MacOS Sierra I had no issues though.
 
 In order to compile both files, I simply run this line:
+
 A) Graph freezer:
 bazel build -c opt --copt=-msse4.1 --copt=-msse4.2 tensorflow/python/tools:freeze_graph
 
