@@ -13,6 +13,7 @@ Each of these folders may contain:
 * tmp folder, which contains the graph (frozen and unfrozen), weights, and TF Lite converted model.
 * Folders containing the apps developed in iOS and Android shown in the tutorials.
 * A dataset folder (section 3 to 6)
+* freeze_graph file containing the commands used to freeze the graph and convert the model into Tensorflow Lite.
 
 # On compiling with bazel
 As I've mention in the videos, I had some problems on Ubuntu compiling freeze_graph and toco to freeze graphs and transform frozen graphs into tensorflow lite format respectively. On MacOS Sierra I had no issues though.
