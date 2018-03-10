@@ -1,0 +1,3 @@
+bazel-bin/tensorflow/python/tools/freeze_graph --input_graph=../6/tmp/graph.pb --input_checkpoint=../6/tmp/my-weights --input_binary=true --output_graph=../6/tmp/frozen.pb --output_node_names=prediction
+
+bazel-bin/tensorflow/contrib/lite/toco/toco --input_file=../6/tmp/frozen.pb --input_format=TENSORFLOW_GRAPHDEF --output_format=TFLITE --output_file=../6/tmp/output.lite --inference_type=FLOAT --input_type=FLOAT --input_arrays=inputX --output_arrays=prediction --input_shapes=10000

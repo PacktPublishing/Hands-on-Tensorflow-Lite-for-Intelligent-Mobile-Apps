@@ -1,0 +1,9 @@
+
+# Freeze graph
+
+bazel-bin/tensorflow/python/tools/freeze_graph --input_graph=../2/tmp/graph.pb --input_checkpoint=../2/tmp/my-model --input_binary=true --output_graph=../2/tmp/frozen.pb --output_node_names=layer9/prediction
+
+
+# Convert into Tensorflow Lite
+
+bazel-bin/tensorflow/contrib/lite/toco/toco --input_file=../2/tmp/frozen.pb --input_format=TENSORFLOW_GRAPHDEF --output_format=TFLITE --output_file=../2/tmp/output.lite --inference_type=FLOAT --input_type=FLOAT --input_arrays=Placeholder --output_arrays=layer9/prediction --input_shapes=2
