@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lipman/python_env/tensorflow2/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/lipman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/aca130f947aff5a8114904383560b597/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

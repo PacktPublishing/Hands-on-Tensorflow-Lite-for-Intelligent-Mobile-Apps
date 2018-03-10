@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lipman/python_env/tensorflow2/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/lipman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/aca130f947aff5a8114904383560b597/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

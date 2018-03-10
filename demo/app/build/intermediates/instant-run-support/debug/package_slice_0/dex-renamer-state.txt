@@ -1,0 +1,4 @@
+#Thu Feb 01 16:19:44 JST 2018
+base.0=/home/lipman/python_env/tensorflow2/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
