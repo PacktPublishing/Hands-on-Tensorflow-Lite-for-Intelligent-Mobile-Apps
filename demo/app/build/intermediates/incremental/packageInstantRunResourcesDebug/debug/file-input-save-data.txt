@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Feb 01 16:53:36 JST 2018
+1.base=/home/lipman/python_env/tensorflow2/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/assets/debug
+2.path=labels.txt
+0.baseType=DIRECTORY
+2.base=/home/lipman/python_env/tensorflow2/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=mobilenet_quant_v1_224.tflite
+0.set=ASSET
+0.base=/home/lipman/python_env/tensorflow2/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=BUILD
