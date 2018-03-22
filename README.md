@@ -1,10 +1,10 @@
 # Hands-on TensorFlow Lite for Intelligent Mobile Apps [Video]
 This is the code repository for [Hands-on TensorFlow Lite for Intelligent Mobile Apps [Video]](https://www.packtpub.com/application-development/hands-tensorflow-lite-intelligent-mobile-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781788990677), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-# Repository
--This repository is divided into 5 sections (excluding the first one because it was theoretical) and a "demo" code from Tensorflow which might be recommended to run (see below "On using the camera of Android emulator").
--
-This complete guide will teach you how to build and deploy Machine Learning models on your mobile device with TensorFlow Lite. You will understand the core architecture of TensorFlow Lite and the inbuilt models that have been optimized for mobiles. You will learn to implement smart data-intensive behavior, fast, predictive algorithms, and efficient networking capabilities with TensorFlow Lite. You will master the TensorFlow Lite Converter, which converts models to the TensorFlow Lite file format. This course will teach you how to solve real-life problems related to Artificial Intelligence—such as image, text, and voice recognition—by developing models in TensorFlow to make your applications really smart. You will understand what Machine Learning can do for you and your mobile applications in the most efficient way. With the capabilities of TensorFlow Lite you will learn to improve the performance of your mobile application and make it smart. By the end of the course, you will have learned to implement AI in your mobile applications with TensorFlow.
+This complete guide will teach you how to build and deploy Machine Learning models on your mobile device with TensorFlow Lite. You will understand the core architecture of TensorFlow Lite and the inbuilt models that have been optimized for mobiles. 
+You will learn to implement smart data-intensive behavior, fast, predictive algorithms, and efficient networking capabilities with TensorFlow Lite. You will master the TensorFlow Lite Converter, which converts models to the TensorFlow Lite file format. This course will teach you how to solve real-life problems related to Artificial Intelligence—such as image, text, and voice recognition—by developing models in TensorFlow to make your applications really smart. You will understand what Machine Learning can do for you and your mobile applications in the most efficient way. With the capabilities of TensorFlow Lite you will learn to improve the performance of your mobile application and make it smart.
+By the end of the course, you will have learned to implement AI in your mobile applications with TensorFlow.
+
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
