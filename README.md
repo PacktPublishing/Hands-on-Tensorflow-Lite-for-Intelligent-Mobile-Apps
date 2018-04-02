@@ -9,12 +9,14 @@ By the end of the course, you will have learned to implement AI in your mobile a
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Explore the current state of Machine Learning and Artificial Intelligence.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Develop the understanding to build AI systems using different machine learning models.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Optimize machine learning models for better performance and accuracy.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Understand different deep learning models for computer vision</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Explore generative models and how they generate information from random noise.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Code the most trending AI algorithms that outperform humans in video games.</SPAN> </LI></UL></DIV>
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Learn basic Deep Learning concepts.</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Build Deep Learning models in TensorFlow.</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Understand the main components of a TensorFlow model.</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Debug and improve TensorFlow models.</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Deploy TensorFlow models on iOS and Android platforms.</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Design solutions to real-life computer vision problems.</SPAN>
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Tackle typical challenges when developing real-life applications.</SPAN> 
+  </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
